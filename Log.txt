@@ -1,0 +1,29 @@
+Date : 2021-07-18, Time : 14:23:40, Message : Device : cpu 
+Date : 2021-07-18, Time : 14:23:40, Message : Model is Loading 
+Date : 2021-07-18, Time : 14:23:41, Message : Model Loaded 
+Date : 2021-07-18, Time : 14:23:41, Message : Tokenizer/ 
+Date : 2021-07-18, Time : 14:23:41, Message : Tokenizer Loaded 
+Date : 2021-07-18, Time : 14:24:00, Message : Get The Text from USER : I [MASK] my wife. 
+Date : 2021-07-18, Time : 14:24:00, Message : Got Encoding & Mask_index 
+Date : 2021-07-18, Time : 14:24:00, Message : Get the Result {'Top 5 Token': [' am', ' was', ' are', ' lost', ' love'], 'Original Text': 'I [MASK] my wife.'} 
+Date : 2021-07-18, Time : 14:24:00, Message : Get the result & giving to the USER 
+Date : 2021-07-18, Time : 14:24:12, Message : Get The Text from USER : I [MASK] my wife very much. 
+Date : 2021-07-18, Time : 14:24:12, Message : Got Encoding & Mask_index 
+Date : 2021-07-18, Time : 14:24:12, Message : Get the Result {'Top 5 Token': [' miss', ' love', ' missed', ' appreciate', ' know'], 'Original Text': 'I [MASK] my wife very much.'} 
+Date : 2021-07-18, Time : 14:24:12, Message : Get the result & giving to the USER 
+Date : 2021-07-18, Time : 14:24:44, Message : Get The Text from USER : Have you [MASK] food ? 
+Date : 2021-07-18, Time : 14:24:44, Message : Got Encoding & Mask_index 
+Date : 2021-07-18, Time : 14:24:44, Message : Get the Result {'Top 5 Token': [' eaten', ' cooked', ' had', ' enjoyed', ' wanted'], 'Original Text': 'Have you [MASK] food ?'} 
+Date : 2021-07-18, Time : 14:24:44, Message : Get the result & giving to the USER 
+Date : 2021-07-18, Time : 14:24:55, Message : Get The Text from USER : will you [MASK] food ? 
+Date : 2021-07-18, Time : 14:24:55, Message : Got Encoding & Mask_index 
+Date : 2021-07-18, Time : 14:24:55, Message : Get the Result {'Top 5 Token': [' eat', ' buy', ' have', ' cook', ' get'], 'Original Text': 'will you [MASK] food ?'} 
+Date : 2021-07-18, Time : 14:24:55, Message : Get the result & giving to the USER 
+Date : 2021-07-18, Time : 14:25:00, Message : Get The Text from USER : will you [MASK] food ? 
+Date : 2021-07-18, Time : 14:25:00, Message : Got Encoding & Mask_index 
+Date : 2021-07-18, Time : 14:25:00, Message : Get the Result {'Top 5 Token': [' eat', ' buy', ' have', ' cook', ' get'], 'Original Text': 'will you [MASK] food ?'} 
+Date : 2021-07-18, Time : 14:25:00, Message : Get the result & giving to the USER 
+Date : 2021-07-18, Time : 14:25:07, Message : Get The Text from USER : have you [MASK] food ? 
+Date : 2021-07-18, Time : 14:25:07, Message : Got Encoding & Mask_index 
+Date : 2021-07-18, Time : 14:25:07, Message : Get the Result {'Top 5 Token': [' eaten', ' cooked', ' had', ' bought', ' sold'], 'Original Text': 'have you [MASK] food ?'} 
+Date : 2021-07-18, Time : 14:25:07, Message : Get the result & giving to the USER 

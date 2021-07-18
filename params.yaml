@@ -1,0 +1,9 @@
+LoggingFileName: "Log.txt"
+
+Loading:
+  Model_name: "QuantizedMLM.pt"
+  TokenizerDir: "Tokenizer/"
+
+Prediction:
+  top_k: 5
+
