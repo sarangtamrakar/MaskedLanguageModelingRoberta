@@ -27,3 +27,104 @@ Date : 2021-07-18, Time : 14:25:07, Message : Get The Text from USER : have you 
 Date : 2021-07-18, Time : 14:25:07, Message : Got Encoding & Mask_index 
 Date : 2021-07-18, Time : 14:25:07, Message : Get the Result {'Top 5 Token': [' eaten', ' cooked', ' had', ' bought', ' sold'], 'Original Text': 'have you [MASK] food ?'} 
 Date : 2021-07-18, Time : 14:25:07, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:50:12, Message : Device : cpu 
+Date : 2021-07-19, Time : 21:50:12, Message : Model is Loading 
+Date : 2021-07-19, Time : 21:50:13, Message : Model Loaded 
+Date : 2021-07-19, Time : 21:50:13, Message : Tokenizer/ 
+Date : 2021-07-19, Time : 21:50:13, Message : Tokenizer Loaded 
+Date : 2021-07-19, Time : 21:50:45, Message : Get The Text from USER : I am going to market with [MASK] 
+Date : 2021-07-19, Time : 21:50:45, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:50:45, Message : Get the Result {'Top 5 Token': [' "', '.', '\n', " '", ''], 'Original Text': 'I am going to market with [MASK]'} 
+Date : 2021-07-19, Time : 21:50:45, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:50:48, Message : Get The Text from USER : I am going to market with [MASK]. 
+Date : 2021-07-19, Time : 21:50:48, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:50:48, Message : Get the Result {'Top 5 Token': [' it', ' them', ' this', ' these', ' those'], 'Original Text': 'I am going to market with [MASK].'} 
+Date : 2021-07-19, Time : 21:50:48, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:51:11, Message : Get The Text from USER : I am [MASK] to market with her. 
+Date : 2021-07-19, Time : 21:51:11, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:51:11, Message : Get the Result {'Top 5 Token': [' going', ' trying', ' able', ' happy', ' up'], 'Original Text': 'I am [MASK] to market with her.'} 
+Date : 2021-07-19, Time : 21:51:11, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:51:15, Message : Get The Text from USER : I am [MASK] to market with her. 
+Date : 2021-07-19, Time : 21:51:15, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:51:15, Message : Get the Result {'Top 5 Token': [' going', ' trying', ' able', ' happy', ' up'], 'Original Text': 'I am [MASK] to market with her.'} 
+Date : 2021-07-19, Time : 21:51:15, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:51:33, Message : Get The Text from USER : I have [MASK] to market with her. 
+Date : 2021-07-19, Time : 21:51:33, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:51:33, Message : Get the Result {'Top 5 Token': [' come', ' something', ' had', ' been', ' tried'], 'Original Text': 'I have [MASK] to market with her.'} 
+Date : 2021-07-19, Time : 21:51:33, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:52:10, Message : Get The Text from USER : I [MASK] to market. 
+Date : 2021-07-19, Time : 21:52:10, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:52:10, Message : Get the Result {'Top 5 Token': [' went', ' came', ' get', ' got', ' was'], 'Original Text': 'I [MASK] to market.'} 
+Date : 2021-07-19, Time : 21:52:10, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:52:42, Message : Get The Text from USER : I [MASK] go to market. 
+Date : 2021-07-19, Time : 21:52:42, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:52:42, Message : Get the Result {'Top 5 Token': [' will', ' would', ' never', "'ll", ' could'], 'Original Text': 'I [MASK] go to market.'} 
+Date : 2021-07-19, Time : 21:52:42, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:53:34, Message : Get The Text from USER : My Mother is very Hard working and [MASK] is also Teacher. 
+Date : 2021-07-19, Time : 21:53:34, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:53:34, Message : Get the Result {'Top 5 Token': [' I', ' Mine', ' she', ' Dad', ' who'], 'Original Text': 'My Mother is very Hard working and [MASK] is also Teacher.'} 
+Date : 2021-07-19, Time : 21:53:34, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:53:45, Message : Get The Text from USER : My Mother is Hard working and [MASK] is also Teacher. 
+Date : 2021-07-19, Time : 21:53:45, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:53:45, Message : Get the Result {'Top 5 Token': [' I', ' she', ' She', ' Mine', ' He'], 'Original Text': 'My Mother is Hard working and [MASK] is also Teacher.'} 
+Date : 2021-07-19, Time : 21:53:45, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:53:55, Message : Get The Text from USER : My Mother is Hard working and [MASK] is Teacher. 
+Date : 2021-07-19, Time : 21:53:55, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:53:55, Message : Get the Result {'Top 5 Token': [' I', ' Dad', ' Mother', ' Mine', ' Mama'], 'Original Text': 'My Mother is Hard working and [MASK] is Teacher.'} 
+Date : 2021-07-19, Time : 21:53:55, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:55:25, Message : Get The Text from USER : I went to market with my mother and [MASK] is very amazing mother. 
+Date : 2021-07-19, Time : 21:55:25, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:55:26, Message : Get the Result {'Top 5 Token': [' this', ' it', ' there', ' that', ' he'], 'Original Text': 'I went to market with my mother and [MASK] is very amazing mother.'} 
+Date : 2021-07-19, Time : 21:55:26, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:55:33, Message : Get The Text from USER : I went to market with my mother and [MASK] is very amazing Mother. 
+Date : 2021-07-19, Time : 21:55:33, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:55:33, Message : Get the Result {'Top 5 Token': [' this', ' that', ' which', ' it', ' she'], 'Original Text': 'I went to market with my mother and [MASK] is very amazing Mother.'} 
+Date : 2021-07-19, Time : 21:55:33, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:55:38, Message : Get The Text from USER : I went to market with my Mother and [MASK] is very amazing Mother. 
+Date : 2021-07-19, Time : 21:55:38, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:55:38, Message : Get the Result {'Top 5 Token': [' this', ' she', ' now', ' what', ' the'], 'Original Text': 'I went to market with my Mother and [MASK] is very amazing Mother.'} 
+Date : 2021-07-19, Time : 21:55:38, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:55:48, Message : Get The Text from USER : I went to market with my Mother and [MASK] is very Amazing Mother. 
+Date : 2021-07-19, Time : 21:55:48, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:55:48, Message : Get the Result {'Top 5 Token': [' this', ' that', ' what', ' who', ' now'], 'Original Text': 'I went to market with my Mother and [MASK] is very Amazing Mother.'} 
+Date : 2021-07-19, Time : 21:55:48, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:55:54, Message : Get The Text from USER : I went to market with my Mother and [MASK] is very amazing Mother. 
+Date : 2021-07-19, Time : 21:55:54, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:55:54, Message : Get the Result {'Top 5 Token': [' this', ' she', ' now', ' what', ' the'], 'Original Text': 'I went to market with my Mother and [MASK] is very amazing Mother.'} 
+Date : 2021-07-19, Time : 21:55:54, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:55:59, Message : Get The Text from USER : I went to market with my mother and [MASK] is very amazing Mother. 
+Date : 2021-07-19, Time : 21:55:59, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:55:59, Message : Get the Result {'Top 5 Token': [' this', ' that', ' which', ' it', ' she'], 'Original Text': 'I went to market with my mother and [MASK] is very amazing Mother.'} 
+Date : 2021-07-19, Time : 21:55:59, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:56:06, Message : Get The Text from USER : I went to market with my mother and [MASK] is very Amazing Mother. 
+Date : 2021-07-19, Time : 21:56:06, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:56:06, Message : Get the Result {'Top 5 Token': [' it', ' she', ' he', ' this', ' there'], 'Original Text': 'I went to market with my mother and [MASK] is very Amazing Mother.'} 
+Date : 2021-07-19, Time : 21:56:06, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:56:12, Message : Get The Text from USER : I went to market with my mother and [MASK] is very Amazing mother. 
+Date : 2021-07-19, Time : 21:56:12, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:56:12, Message : Get the Result {'Top 5 Token': [' this', ' James', ' I', ' it', ' John'], 'Original Text': 'I went to market with my mother and [MASK] is very Amazing mother.'} 
+Date : 2021-07-19, Time : 21:56:12, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:56:17, Message : Get The Text from USER : I went to market with my mother and [MASK] is very amazing mother. 
+Date : 2021-07-19, Time : 21:56:17, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:56:17, Message : Get the Result {'Top 5 Token': [' this', ' it', ' there', ' that', ' he'], 'Original Text': 'I went to market with my mother and [MASK] is very amazing mother.'} 
+Date : 2021-07-19, Time : 21:56:17, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:57:15, Message : Get The Text from USER : I went to market with girlfriend and i bought dress for [MASK]. 
+Date : 2021-07-19, Time : 21:57:15, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:57:15, Message : Get the Result {'Top 5 Token': [' me', ' him', ' them', ' it', ' myself'], 'Original Text': 'I went to market with girlfriend and i bought dress for [MASK].'} 
+Date : 2021-07-19, Time : 21:57:15, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:57:29, Message : Get The Text from USER : I went to market with my girlfriend and i bought dress for [MASK]. 
+Date : 2021-07-19, Time : 21:57:29, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:57:29, Message : Get the Result {'Top 5 Token': [' them', ' me', ' it', ' myself', ' him'], 'Original Text': 'I went to market with my girlfriend and i bought dress for [MASK].'} 
+Date : 2021-07-19, Time : 21:57:29, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:57:34, Message : Get The Text from USER : I went to market with my Girlfriend and i bought dress for [MASK]. 
+Date : 2021-07-19, Time : 21:57:34, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:57:34, Message : Get the Result {'Top 5 Token': [' her', ' me', ' them', ' it', ' him'], 'Original Text': 'I went to market with my Girlfriend and i bought dress for [MASK].'} 
+Date : 2021-07-19, Time : 21:57:34, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:57:45, Message : Get The Text from USER : I went to market with my Girlfriend and I bought dress for [MASK]. 
+Date : 2021-07-19, Time : 21:57:45, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:57:45, Message : Get the Result {'Top 5 Token': [' it', ' me', ' them', ' her', ' him'], 'Original Text': 'I went to market with my Girlfriend and I bought dress for [MASK].'} 
+Date : 2021-07-19, Time : 21:57:45, Message : Get the result & giving to the USER 
+Date : 2021-07-19, Time : 21:57:50, Message : Get The Text from USER : I went to market with my Girlfriend and i bought dress for [MASK]. 
+Date : 2021-07-19, Time : 21:57:50, Message : Got Encoding & Mask_index 
+Date : 2021-07-19, Time : 21:57:50, Message : Get the Result {'Top 5 Token': [' her', ' me', ' them', ' it', ' him'], 'Original Text': 'I went to market with my Girlfriend and i bought dress for [MASK].'} 
+Date : 2021-07-19, Time : 21:57:50, Message : Get the result & giving to the USER 
